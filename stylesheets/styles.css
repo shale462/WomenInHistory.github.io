@@ -420,4 +420,18 @@ footer {
     font-size:12pt;
     color:#444;
   }
+  
+FIGURE, FIGCAPTION {
+
+display: block;
+font-style: italic;
+font-variant: small-caps;
+
+}
+figcaption {
+
+font-style: italic;
+font-variant: small-caps;
+
+}
 }
